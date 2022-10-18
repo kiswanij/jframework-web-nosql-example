@@ -7,8 +7,8 @@ import java.util.Vector;
 import javax.faces.bean.ManagedBean;
 import javax.faces.bean.ViewScoped;
 
-import com.jk.db.dataaccess.nosql.JKNoSqlDataAccess;
-import com.jk.db.datasource.JKDataAccessFactory;
+import com.jk.data.dataaccess.JKDataAccessFactory;
+import com.jk.data.dataaccess.nosql.JKNoSqlDataAccess;
 import com.jk.web.faces.mb.JKManagedBean;
 
 @ManagedBean(name = "controller")
