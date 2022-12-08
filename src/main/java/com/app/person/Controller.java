@@ -6,7 +6,7 @@ import java.util.Vector;
 
 import com.jk.data.dataaccess.JKDataAccessFactory;
 import com.jk.data.dataaccess.nosql.JKNoSqlDataAccess;
-import com.jk.web.faces.mb.JKWebController;
+import com.jk.web.faces.controllers.JKWebController;
 
 import jakarta.faces.view.ViewScoped;
 import jakarta.inject.Named;
